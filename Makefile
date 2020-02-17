@@ -1,5 +1,5 @@
-BUCKET_NAME=TODO
-PROJECT_ID=TODO
+BUCKET_NAME=wagon-ml-prat-gabrielle
+PROJECT_ID=coral-subject-268109
 
 PACKAGE_NAME=TaxiFareModel
 FILENAME=trainer

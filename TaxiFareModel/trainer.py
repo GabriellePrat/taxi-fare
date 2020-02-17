@@ -5,8 +5,8 @@ import pandas as pd
 from sklearn import linear_model
 import numpy as np
 
-BUCKET_NAME="TODO"
-PATH_INSIDE_BUCKET="TODO"
+BUCKET_NAME="wagon-ml-prat-gabrielle"
+PATH_INSIDE_BUCKET="data/train.csv"
 
 # Model version (folder name where the *.joblib is soted in the bucket)
 MODEL_VERSION="v1"
